@@ -1,0 +1,4 @@
+Mi IP pública es: 190.16.10.155
+Mi usuario es: vagrant
+El hash de mi usuario es: 6492dfcac590fdf79fc2aaad94492325fde2ebabb241c1cf702d38e22ec5090e
+La URL de mi repositorio es: git@github.com:Facundo-Carabajal/UTNFRA_SO_1P2C_2024_CarabajalF.git
